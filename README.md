@@ -1,5 +1,5 @@
 # mordern-text-editor
-
+![](https://img.shields.io/badge/license-MIT-blue)
 
 
 ## User Story
@@ -39,3 +39,9 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+## Contributing
+I would be happy if anyone decide to improve it. All comments and suggestions are welcomed.
+## Screenshot
+[Click here to see the demo Video](https://www.youtube.com/watch?v=HVfvx0v68ck)
+
+![](Screenshot/Screenshot1.png)
